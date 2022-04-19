@@ -30,9 +30,28 @@ body {
     font-size: 35px;
     font-family: 'VT323', monospace;
     top: 85%;
-    right: 73%;
+    right: 45%;
     color: white;
 }
+
+.text-d {
+    position: fixed;
+    font-size: 35px;
+    font-family: 'VT323', monospace;
+    top: 50%;
+    right: 5%;
+    color: white;
+}
+
+.text-e {
+    position: fixed;
+    font-size: 280px;
+    font-family: 'VT323', monospace;
+    top: 67%;
+    right: 5%;
+    color: white;
+}
+
 
 a {
     color: white;
