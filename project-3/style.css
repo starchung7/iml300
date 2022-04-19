@@ -1,10 +1,53 @@
 body {
-    background-color: lime;
+    background-color: black;
 }
 
-.bigger {
-    height: 200px;
-    width: 200px;
-    border-radius: 0%;
-    transition: width 2s, height 2s;
+.title {
+    font-size: 140px;
+    font-family: 'VT323', monospace;
+    color: white;
+}
+
+.text-a {
+    font-size: 35px;
+    font-family: 'VT323', monospace;
+    color: white;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+.text-b {
+    position: fixed;
+    font-size: 35px;
+    font-family: 'VT323', monospace;
+    top: 20%;
+    right: 20%;
+    color: white;
+}
+
+.text-c {
+    position: fixed;
+    font-size: 35px;
+    font-family: 'VT323', monospace;
+    top: 85%;
+    right: 73%;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: yellow;
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
 }

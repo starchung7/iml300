@@ -4,7 +4,7 @@ $(document).ready(function() {
     $('.flower').click(function(){
         $('p').toggle();
     });
-       $('.flower2').click(function () {
+       $('.flower2').hover(function () {
    
         $(this).toggleClass("bigger");
     });
