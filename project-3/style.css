@@ -3,17 +3,36 @@ body {
 }
 
 .title {
-    font-size: 140px;
+    position: fixed;
+    font-size: 110px;
+    top: 10%;
+    right: 4%;
     font-family: 'VT323', monospace;
     color: white;
 }
 
 .text-a {
+    position: fixed;
     font-size: 35px;
     font-family: 'VT323', monospace;
     color: white;
+    background-color: black;
     border-bottom: 1px solid #fff;
     border-top: 1px solid #fff;
+    top: 0%;
+    left: -1%;
+}
+
+.text-a2 {
+    position: fixed;
+    font-size: 35px;
+    font-family: 'VT323', monospace;
+    color: white;
+    background-color: black;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+    top: 93.5%;
+    left: -1%;
 }
 
 .text-b {
@@ -52,6 +71,23 @@ body {
     color: white;
 }
 
+.text-f {
+    position: fixed;
+    font-size: 40px;
+    font-family: 'VT323', monospace;
+    top: 10%;
+    right: 35%;
+    color: black;
+}
+
+.text-g {
+    position: fixed;
+    font-size: 40px;
+    font-family: 'VT323', monospace;
+    top: 88%;
+    right: 7%;
+    color: black;
+}
 
 a {
     color: white;
@@ -60,7 +96,18 @@ a {
 a:hover {
     color: yellow;
 }
-
+.circle{
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+.bigger{
+        background-color: yellow;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+}
 canvas {
     width: 100%;
     height: 100%;
