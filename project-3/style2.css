@@ -22,8 +22,17 @@ a:hover {
     left: -1%;
 }
 
+.text-e {
+    position: fixed;
+    font-size: 40px;
+    font-family: 'VT323', monospace;
+    top: 90%;
+    right: 40%;
+    color: black;
+}
+
 .text-f {
-    position: static;
+    position: fixed;
     font-size: 40px;
     font-family: 'VT323', monospace;
     top: 10%;

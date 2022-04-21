@@ -102,11 +102,28 @@ body {
     position: fixed;
     font-size: 35px;
     font-family: 'VT323', monospace;
-    top: 50%;
+    top: 65%;
     right: 23%;
     color: white;
 }
 
+.text-j {
+    position: fixed;
+    font-size: 35px;
+    font-family: 'VT323', monospace;
+    top: 90%;
+    right: 45%;
+    color: white;
+}
+
+.text-k {
+    position: fixed;
+    font-size: 35px;
+    font-family: 'VT323', monospace;
+    top: 45%;
+    left: %;
+    color: yellow;
+}
 a {
     color: white;
 }
@@ -123,8 +140,9 @@ a:hover {
 }
 
 .circle2 {
-    left: 60%;
-    top: 40%;
+    position: fixed;
+    top: 56%;
+    left: 78.5%;
     background-color: yellow;
     height: 300px;
     width: 300px;
