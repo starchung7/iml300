@@ -124,6 +124,7 @@ body {
     left: %;
     color: yellow;
 }
+
 a {
     color: white;
 }
@@ -133,10 +134,21 @@ a:hover {
 }
 
 .circle {
-    background-color: yellow;
     height: 300px;
     width: 300px;
-    border-radius: 50%;
+
+}
+
+img {
+    position: fixed;
+    max-width: 350px;
+    left: -.7%;
+}
+
+img2 {
+    position: fixed;
+    max-width: 350px;
+    left: 50%;
 }
 
 .circle2 {
