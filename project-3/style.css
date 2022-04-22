@@ -139,27 +139,18 @@ a:hover {
 
 }
 
-img {
+.img1 {
     position: fixed;
     max-width: 350px;
     left: -.7%;
+    z-index: -2;
 }
 
-img2 {
+.img2 {
     position: fixed;
     max-width: 350px;
-    left: 50%;
-}
-
-.circle2 {
-    position: fixed;
-    top: 56%;
-    left: 78.5%;
-    background-color: yellow;
-    height: 300px;
-    width: 300px;
-    border-radius: 50%;
-
+    left: 77%;
+    top: 55%;
 }
 
 .bigger {
