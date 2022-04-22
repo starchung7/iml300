@@ -45,6 +45,16 @@ a:hover {
     font-size: 40px;
     font-family: 'VT323', monospace;
     top: 88%;
-    right: 7%;
+    right: 4%;
+    color: black;
+}
+
+.text-h {
+    position: fixed;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'VT323', monospace;
+    top: 15%;
+    left: 0%;
     color: black;
 }
