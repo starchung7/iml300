@@ -24,10 +24,10 @@ a:hover {
 
 .text-e {
     position: fixed;
-    font-size: 40px;
+    font-size: 140px;
     font-family: 'VT323', monospace;
-    top: 90%;
-    right: 40%;
+    top: 78%;
+    right: 87%;
     color: black;
 }
 
@@ -59,9 +59,49 @@ a:hover {
     color: black;
 }
 
+.text-i {
+    position: fixed;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'VT323', monospace;
+    top: 30%;
+    left: 0%;
+    color: black;
+}
+
+.text-j {
+    position: fixed;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'VT323', monospace;
+    top: 45%;
+    left: 0%;
+    color: black;
+}
+.text-k {
+    position: fixed;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'VT323', monospace;
+    top: 65%;
+    left: 0%;
+    color: black;
+}
+
+
 .img1 {
     position: fixed;
     max-width: 20px;
     left: -.7%;
     z-index: 0;
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
 }
