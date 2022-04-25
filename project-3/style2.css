@@ -10,6 +10,8 @@ a:hover {
     color: goldenrod;
 }
 
+
+
 .text-a {
     position: fixed;
     font-size: 35px;
@@ -26,7 +28,7 @@ a:hover {
     position: fixed;
     font-size: 140px;
     font-family: 'VT323', monospace;
-    top: 78%;
+    top: 80%;
     right: 87%;
     color: black;
 }
