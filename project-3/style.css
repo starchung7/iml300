@@ -191,6 +191,15 @@ body {
     color: white;
     background-color: black;
 }
+.text-b8 {
+    position: fixed;
+    font-size: 29px;
+    font-family: 'VT323', monospace;
+    top: 30%;
+    right: 30%;
+    color: white;
+    background-color: black;
+}
 
 .text-c {
     position: fixed;
@@ -235,6 +244,15 @@ body {
     top: 67%;
     left: 5%;
     color: yellow;
+}
+
+.text-e4 {
+    position: fixed;
+    font-size: 240px;
+    font-family: 'VT323', monospace;
+    top: 67%;
+    left: 5%;
+    color: white;
 }
 
 .text-f {
