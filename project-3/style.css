@@ -42,13 +42,15 @@ body {
     color: white;
     top: 10%;
 }
+
 .text-a4 {
     position: fixed;
     font-size: 35px;
     font-family: 'VT323', monospace;
     color: white;
-    top: 20%; 
+    top: 20%;
 }
+
 .text-a5 {
     position: fixed;
     font-size: 35px;
@@ -56,6 +58,7 @@ body {
     color: white;
     top: 33%;
 }
+
 .text-a6 {
     position: fixed;
     font-size: 35px;
@@ -63,6 +66,7 @@ body {
     color: white;
     top: 47%;
 }
+
 .text-a7 {
     position: fixed;
     font-size: 35px;
@@ -70,6 +74,7 @@ body {
     color: white;
     top: 60%;
 }
+
 .text-a8 {
     position: fixed;
     font-size: 35px;
@@ -81,6 +86,7 @@ body {
     top: 60%;
     left: -1%;
 }
+
 .text-a9 {
     position: fixed;
     font-size: 35px;
@@ -92,6 +98,7 @@ body {
     top: 70%;
     left: -1%;
 }
+
 .text-a10 {
     position: fixed;
     font-size: 35px;
@@ -103,6 +110,7 @@ body {
     top: 80%;
     left: -1%;
 }
+
 .text-a11 {
     position: fixed;
     font-size: 35px;
@@ -114,6 +122,7 @@ body {
     top: 90%;
     left: -1%;
 }
+
 .text-b {
     position: fixed;
     font-size: 35px;
@@ -121,6 +130,66 @@ body {
     top: 20%;
     right: 20%;
     color: white;
+}
+
+.text-b2 {
+    position: fixed;
+    font-size: 35px;
+    font-family: 'VT323', monospace;
+    top: 10%;
+    right: 25%;
+    color: white;
+    background-color: black;
+}
+
+.text-b3 {
+    position: fixed;
+    font-size: 30px;
+    font-family: 'VT323', monospace;
+    top: 22%;
+    left: -.0%;
+    color: white;
+    background-color: black;
+}
+
+.text-b4 {
+    position: fixed;
+    font-size: 29px;
+    font-family: 'VT323', monospace;
+    top: 36%;
+    left: -.0%;
+    color: white;
+    background-color: black;
+}
+
+.text-b5 {
+    position: fixed;
+    font-size: 30px;
+    font-family: 'VT323', monospace;
+    top: 50%;
+    left: -.0%;
+    color: white;
+    background-color: black;
+}
+
+.text-b6 {
+    position: fixed;
+    font-size: 30px;
+    font-family: 'VT323', monospace;
+    top: 66%;
+    right: -.0%;
+    color: white;
+    background-color: black;
+}
+
+.text-b7 {
+    position: fixed;
+    font-size: 30px;
+    font-family: 'VT323', monospace;
+    top: 84%;
+    right: 43%;
+    color: white;
+    background-color: black;
 }
 
 .text-c {
@@ -158,6 +227,7 @@ body {
     right: 5%;
     color: yellow;
 }
+
 .text-e3 {
     position: fixed;
     font-size: 280px;
